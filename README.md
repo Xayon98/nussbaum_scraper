@@ -1,6 +1,6 @@
 # Nussbaum scraper
 
-This was created to scrap all the files from our computer science teacher and can be easily 
+This was created to scrap all the files from our computer science teacher.
 
 ## Modules needed
 
